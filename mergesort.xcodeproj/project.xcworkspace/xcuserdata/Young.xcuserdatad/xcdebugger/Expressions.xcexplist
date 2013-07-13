@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "a[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mergeandsort:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "b[1]">
+            </PersistentString>
+            <PersistentString
+               value = "b[2]">
+            </PersistentString>
+            <PersistentString
+               value = "a[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
